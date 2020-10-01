@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/10.Machine Learning - 2/1.Decision tree/Decision tree/DecisionTree_DEPLOYMENT" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/10.Machine Learning - 2/2.EnsembleLearning_And_RandomForest/EnsembleLearning_And_RandomForest/Random_forest_deployment" vcs="Git" />
-  </component>
-</project>
